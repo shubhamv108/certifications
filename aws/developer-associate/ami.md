@@ -1,0 +1,8 @@
+	- Costomization of an EC2 instance
+	- software, config, os, monitoring
+	- fast boot/config time because all is pre-packaged
+	- can be buid for specific region (copied across regions)
+	- EC2 instances can be launched from diff AMIs
+		- Public AMI: AWS provided
+		- Own AMI: make & mantain them yourself
+		- aws marketplace amis (sold)
